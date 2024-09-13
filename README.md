@@ -1,9 +1,11 @@
 # Todo-List-API
 
 ## Description
+
 This is a simple Todo List API that allows you to create, read, update, and delete tasks.
 
 ## Features
+
 - Task CRUD
 - User Authentication with JWT
 - Refresh Token
@@ -13,12 +15,14 @@ This is a simple Todo List API that allows you to create, read, update, and dele
 - Filtering
 
 ## Tech Stack
+
 - Node.js
 - Express.js
 - Sequelize
 - MySQL
 
 ## Libraries
+
 - express
 - dotenv
 - bcrypt
@@ -30,6 +34,7 @@ This is a simple Todo List API that allows you to create, read, update, and dele
 - express-validator
 
 ## Installation
+
 1. Clone the repository
     ```bash
     git clone
@@ -45,4 +50,5 @@ This is a simple Todo List API that allows you to create, read, update, and dele
     ```
 
 ## Project URL
-    [Todo List API](https://roadmap.sh/projects/todo-list-api)
+
+[Todo List API](https://roadmap.sh/projects/todo-list-api)
